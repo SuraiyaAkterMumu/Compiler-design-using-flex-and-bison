@@ -1,0 +1,68 @@
+
+Header File Found!
+
+Valid declaration!
+
+Value of the variable p1:  10	
+
+FUNC Declared!
+
+Valid declaration!
+
+Double Declaration! 
+
+Valid declaration!
+
+Comment detected
+
+Value of the variable t:  8	
+
+Value of the variable a1:  10	
+
+Value of the variable b:  2	
+
+Value of the variable c:  12	
+
+Value of the variable d:  8	
+
+Value of the variable a1:  10	
+
+Value of the variable b:  2	
+
+Condition is false in IF
+
+Value of the variable c:  12	
+
+Value of the variable d:  2	
+
+Condition is true in IF
+
+Condition is true in IF
+
+Executed 10
+
+Value of the variable d:  1	
+
+Value of the variable b:  2	
+Expression in for loop increasing 2
+Expression in for loop increasing 4
+
+
+Value of the variable b:  2	
+Expression in for loop Decreasing 6
+Expression in for loop Decreasing 3
+Expression in for loop Decreasing 0
+
+
+Value of the variable a1:  10	
+While loop is executing value of variable a1 : 12
+While loop is executing value of variable a1 : 14
+
+Value of the variable d:  1	
+Value of Sin(30) is 0.500001
+Value of Cos(30) is 0.866025
+Value of Tan(45) is 1.000004
+Value of ln(16) is 2.772589
+Value of Log10(1000) is 3.000000
+
+Program successfully ended
